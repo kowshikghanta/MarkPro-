@@ -1,0 +1,13 @@
+com\markpro\repository\StudentRepository.class
+com\markpro\repository\MarkRepository.class
+com\markpro\config\DbSeeder.class
+com\markpro\controller\GradeController.class
+com\markpro\websocket\GradeWebSocketHandler.class
+com\markpro\model\Mark.class
+com\markpro\MarkProApplication.class
+com\markpro\model\Course.class
+com\markpro\model\Student.class
+com\markpro\websocket\WebSocketConfig.class
+com\markpro\service\GradeCalculationService.class
+com\markpro\MarkProApplication$1.class
+com\markpro\repository\CourseRepository.class
